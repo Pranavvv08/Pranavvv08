@@ -26,21 +26,22 @@ I'm a passionate developer with a keen interest in Artificial Intelligence, Mach
 
 ### 📚 Projects
 
-- **Gesture Volume Control**: An interactive computer vision project using OpenCV and MediaPipe that adjusts the computer's volume through real-time hand gesture recognition. [GitHub Repo](https://github.com/Pranavvv08/GestureVolumeControl)&#8203;:contentReference[oaicite:0]{index=0}
+- **Should I Reply?**: An AI-powered email assistant that analyzes incoming emails for urgency, emotional tone, and suggests smart, context-aware replies.  
+  🔗 [GitHub Repo](https://github.com/Pranavvv08/Should-I-Reply-)
 
-- **Should I Reply?**: :contentReference[oaicite:1]{index=1} [GitHub Repo](https://github.com/Pranavvv08/Should-I-Reply-)&#8203;:contentReference[oaicite:2]{index=2}
+- **Text Generator**: A project implementing a bigram language model using neural networks to generate text.  
+  🔗 [GitHub Repo](https://github.com/Pranavvv08/TextGenerator)
 
-- **Text Generator**: :contentReference[oaicite:3]{index=3} [GitHub Repo](https://github.com/Pranavvv08/TextGenerator)&#8203;:contentReference[oaicite:4]{index=4}
-
-- **Machine Learning Projects**: :contentReference[oaicite:5]{index=5} [GitHub Repo](https://github.com/Pranavvv08/MachineLearning)&#8203;:contentReference[oaicite:6]{index=6}
-
+- **Gesture Volume Control**: An interactive computer vision project using OpenCV and MediaPipe that adjusts the computer's volume through real-time hand gesture recognition.  
+  🔗 [GitHub Repo](https://github.com/Pranavvv08/GestureVolumeControl)
+  
 ---
 
 ### 🌱 Currently Learning
 
-- :contentReference[oaicite:7]{index=7}
-- :contentReference[oaicite:8]{index=8}
-- :contentReference[oaicite:9]{index=9}
+- Django Web Framework  
+- AI Agents and Multi-Agent Systems  
+- LLM Applications & Deployment
 
 ---
 
