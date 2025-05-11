@@ -26,7 +26,7 @@ I'm a passionate developer with a keen interest in Artificial Intelligence, Mach
 ### 📚 Projects
 
 - **Should I Reply?**: An AI-powered email assistant that analyzes incoming emails for urgency, emotional tone, and suggests smart, context-aware replies.  
-  🔗 [GitHub Repo](https://github.com/Pranavvv08/Should-I-Reply-)
+  🔗 [GitHub Repo](https://github.com/Pranavvv08/Should-I-Reply)
 
 - **Text Generator**: A project implementing a bigram language model using neural networks to generate text.  
   🔗 [GitHub Repo](https://github.com/Pranavvv08/TextGenerator)
