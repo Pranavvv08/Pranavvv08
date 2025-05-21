@@ -38,7 +38,7 @@ I'm a passionate developer with a keen interest in Artificial Intelligence, Mach
 
 ### 🌱 Currently Learning
 
-- Django Web Framework  
+- FastApi  
 - AI Agents and Multi-Agent Systems  
 - LLM Applications & Deployment
 
