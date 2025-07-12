@@ -25,20 +25,20 @@ I'm a passionate developer with a keen interest in Artificial Intelligence, Mach
 
 ### 📚 Projects
 
+- **PortfolioAI** *(In Development)*: A deep learning-based intelligent stock portfolio assistant for the Indian stock market. It uses price correlation, sentiment analysis, and optimized portfolio allocation to give explainable investment suggestions.  
+  🔗 [GitHub Repo](https://github.com/Pranavvv08/PortfolioAI)
+  
 - **Should I Reply?**: An AI-powered email assistant that analyzes incoming emails for urgency, emotional tone, and suggests smart, context-aware replies.  
   🔗 [GitHub Repo](https://github.com/Pranavvv08/Should-I-Reply)
 
 - **Text Generator**: A project implementing a bigram language model using neural networks to generate text.  
   🔗 [GitHub Repo](https://github.com/Pranavvv08/TextGenerator)
 
-- **Gesture Volume Control**: An interactive computer vision project using OpenCV and MediaPipe that adjusts the computer's volume through real-time hand gesture recognition.  
-  🔗 [GitHub Repo](https://github.com/Pranavvv08/GestureVolumeControl)
-  
 ---
 
 ### 🌱 Currently Learning
 
-- FastApi  
+- Deep Learning
 - AI Agents and Multi-Agent Systems  
 - LLM Applications & Deployment
 
