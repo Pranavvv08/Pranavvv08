@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Pranav+Sasank" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=F7F2EE&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Pranav+Sasank" alt="Typing SVG" />
 </p>
 <p align="center">
   🧠 AI & ML Enthusiast | 🤖 LLM Explorer
