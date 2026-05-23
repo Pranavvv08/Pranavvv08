@@ -27,8 +27,8 @@ I'm a passionate developer with a keen interest in Artificial Intelligence, Mach
 
 ### 📚 Projects
 
-- **PortfolioAI** *(In Development)*: A deep learning-based intelligent stock portfolio assistant for the Indian stock market. It uses price correlation, sentiment analysis, and optimized portfolio allocation to give explainable investment suggestions.  
-  🔗 [GitHub Repo](https://github.com/Pranavvv08/PortfolioAI)
+- **AI Personal Agent Workspace**: A full-stack, production-ready AI productivity platform — featuring an autonomous chat agent, intelligent task extraction, email sync, RAG-powered code & document intelligence, all wrapped in a sleek glassmorphism UI.  
+  🔗 [GitHub Repo](https://github.com/Pranavvv08/AIWorkspace)
   
 - **Should I Reply?**: An AI-powered email assistant that analyzes incoming emails for urgency, emotional tone, and suggests smart, context-aware replies.  
   🔗 [GitHub Repo](https://github.com/Pranavvv08/Should-I-Reply)
