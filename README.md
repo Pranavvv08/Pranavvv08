@@ -26,6 +26,8 @@ I'm a passionate developer with a keen interest in Artificial Intelligence, Mach
 ---
 
 ### 📚 Projects
+- **PersonaRAG**: PersonaRAG is the backend behind the "Ask Pranav's AI Assistant" chatbot on my portfolio website. A visitor types a question ("What projects has Pranav built?", "Does he have any certifications?", "How do I contact him?") and the API answers it using only facts from my real portfolio content, with no guessing and no invented details.
+  🔗 [GitHub Repo](https://github.com/Pranavvv08/PersonaRAG)
 
 - **AI Personal Agent Workspace**: A full-stack, production-ready AI productivity platform — featuring an autonomous chat agent, intelligent task extraction, email sync, RAG-powered code & document intelligence, all wrapped in a sleek glassmorphism UI.  
   🔗 [GitHub Repo](https://github.com/Pranavvv08/AIWorkspace)
